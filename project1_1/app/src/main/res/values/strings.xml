@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">project1_1</string>
+    <string name="strBtn3" > 가져온 버튼입니다 </string>
+    <string name="title" > 스마트금융과 </string>
+    <string name="description" > 설명 시간표 커리큘럼 교수 시설 장비 지도 식단 취업 교육 자격증
+
+    </string>
+</resources>
